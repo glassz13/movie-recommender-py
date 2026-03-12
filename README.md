@@ -9,8 +9,6 @@
 
 **live demo:** https://glassz13-movie-recommend.hf.space
 
----
-
 ![demo](demo.gif)
 
 ---
