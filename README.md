@@ -2,10 +2,11 @@
 
 > tell me one movie you liked. i'll give you exactly 3 like it — no ratings, no trailers, no noise. just trust me. go watch.
 
-![Python](https://img.shields.io/badge/python-3.11-blue)
-![FastAPI](https://img.shields.io/badge/FastAPI-latest-green)
-![sentence-transformers](https://img.shields.io/badge/sentence--transformers-allMiniLM--L6--v2-orange)
-![Docker](https://img.shields.io/badge/deployed-HuggingFace-yellow)
+![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![sentence-transformers](https://img.shields.io/badge/sentence--transformers-allMiniLM--L6--v2-FF6F00?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/Deployed-HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 
 **live demo:** https://glassz13-movie-recommend.hf.space
 
